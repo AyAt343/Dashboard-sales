@@ -1,0 +1,34 @@
+# 📊 Sales Analysis Dashboard  
+
+An interactive *Sales Analysis Dashboard* built with *Excel* and *Pivot Tables* to visualize and analyze sales performance.  
+
+## 🔎 Overview  
+This dashboard provides key insights into sales data, including:  
+- Total Sales, Total Quantity, and Average of Items  
+- Sales by Department  
+- Sales per Branch  
+- Top 10 Departments by Sales  
+- Bottom 10 Items by Sales  
+
+## 🛠 Tools Used  
+- Microsoft Excel  
+- Pivot Tables & Pivot Charts  
+- Data Visualization Techniques  
+
+## 🎯 Purpose  
+The dashboard helps in:  
+- Identifying the top-performing departments  
+- Monitoring branch performance  
+- Detecting low-performing items  
+- Supporting business decision-making with data-driven insights  
+
+## 📂 Project Files  
+- Dashboard.xlsx → Main Excel file with dashboard & pivot tables  
+- README.md → Project documentation  
+
+## 📷 Screenshot  
+![Dashboard Screenshot](./dashboard-screenshot.png)  
+
+---
+
+💡 This project is part of my data analysis learning journey, and I’m open to feedback & suggestions for improvement.
